@@ -1,0 +1,70 @@
+.box{
+    width: 220px;
+    height: 40px;
+    border: 1px solid black;
+    text-align: center;
+    
+  
+}
+.Google{
+    width: 60px;
+    height: 60px;
+    display: inline-block  ;
+    background-image: url(google.png);
+    background-size: cover;
+    margin-top: 20px;
+}
+.Facebook{
+    width: 60px;
+    height: 60px;
+    display: inline-block ;
+    background-image: url(facebook.jpg);
+    background-size: cover;
+
+}
+.Apple{
+    width: 60px;
+    height: 60px;
+    display: inline-block ;
+    background-image: url(apple.jpg);
+    background-size: cover;
+    
+}
+body{
+    background-image: url(valorant\ login.png);
+    background-size: cover;
+    font-family: Arial, Helvetica, sans-serif;
+
+}
+.login{
+    background-color: white;
+    width: 500px;
+    height: 900px;
+    padding: 50px;
+    text-align: center;
+    position: fixed;
+
+
+}
+input{
+    height: 50px;
+    display: block;
+    margin-left: 70px;
+    width: 400px;
+    margin-bottom: 15px;
+    margin-top: 15px;
+  
+    
+}
+h1{
+    text-align: center;
+    font-size: 40px;
+}
+label{
+    font-size: 20px;
+   
+}
+a{
+    text-decoration: none;
+    color: black;
+}
